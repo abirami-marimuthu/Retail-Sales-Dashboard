@@ -1,4 +1,4 @@
-# 📊 Retail Sales Performance Dashboard
+# Retail Sales Performance Dashboard
 
 ##  Project Overview
 This project analyzes retail sales data using Power BI to identify sales trends, product performance, profitability, and city-wise sales distribution.
